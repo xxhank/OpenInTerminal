@@ -14,6 +14,10 @@ You can either
 Just delete the bundle with the name of `OpenInTerminal.xcplugin` in
 
     ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins
+    
+###TODO
+* Add Key Binding - (cmd + opt + t)
+* Add 'Reveal in Terminal' to right click's context menu
      
 ### Author
 Sathya Narayanan | [@sathyaio](https://twitter.com/sathyaio)  
