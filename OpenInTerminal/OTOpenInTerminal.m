@@ -63,7 +63,10 @@ static NSArray *supportFileFormats = nil;
         NSString *title = @"Reveal in Terminal";
         _openInTerminalButton = [[NSMenuItem alloc] initWithTitle:title
                                                            action:@selector(openProject)
-                                                    keyEquivalent:@""];
+                                                    keyEquivalent:@"t"];
+        
+        self.openInTerminalButton.keyEquivalentModifierMask = NSCommandKeyMask | NSAlternateKeyMask;
+        
         [self.openInTerminalButton setTarget:self];
         [[menuItem submenu] insertItem:self.openInTerminalButton atIndex:3];
     }
