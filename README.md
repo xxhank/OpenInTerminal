@@ -7,6 +7,7 @@ Open In Terminal is a plugin for xcode to open the selected file's directory in 
 ### Installation
 
 * Download/Clone the source and build it (`cmd` + `B`) in Xcode.
+* Restart Xcode
 
 ### Uninstallation
 Just delete the bundle with the name of `OpenInTerminal.xcplugin` in
