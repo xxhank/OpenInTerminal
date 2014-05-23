@@ -5,9 +5,7 @@ Open In Terminal is a plugin for xcode to open the selected file's directory in 
 ![Demo](demo.png)
 
 ### Installation
-You can either
 
-* Use [Alcatraz](http://alcatraz.io/)
 * Download/Clone the source and build it (`cmd` + `B`) in Xcode.
 
 ### Uninstallation
