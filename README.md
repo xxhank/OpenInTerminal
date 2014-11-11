@@ -20,6 +20,7 @@ Just delete the bundle with the name of `OpenInTerminal.xcplugin` in
      
 ### Author
 Sathya Narayanan | [@sathyaio](https://twitter.com/sathyaio)  
-  
-    
-    
+
+----------  
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sathya-me/openinterminal/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
